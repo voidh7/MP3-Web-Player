@@ -8,6 +8,8 @@ para os Devs desenvolverem.
 
 ## Indices
 - [Padrão de Código](#code-structure)
+- [Contrato de Dados e Objetos](#data-contract)
+- [Contrato de Funçoes](#function-contract)
 - [Dicionário de IDs e Classes HTML e CSS](#dictionary-css-html)
 - [Dicionário de Pastas](#dictionary-folders)
 - [Dicionário de Arquivos e Referencia de Código](#dictionary-files)
@@ -48,6 +50,12 @@ export function filtrarMusicas(lista, termo) {
 Ele descreve tudo, para ninguem se perder!<br>
 Descreve o tipo do argumento e o nome!<br>
 Descreve o tipo de retorno e ou oque contem!
+
+### Contrato de Dados e Objetos
+<a name="data-contract"></a>
+
+### Contrato de Funções
+<a name="function-contract"></a>
 
 ### Dicionário de IDs e Classes HTML e CSS
 <a name="dictionary-css-html"></a>
