@@ -4,4 +4,8 @@ Aqui será o documento principal do projeto, onde ira descrever cada função e 
 para os Devs desenvolverem.
 
 ## Indices
-    Nada por enquanto
+
+
+
+## Dicionário de IDs e Classes HTML e CSS
+<a name="dictionary-css-html"></a>
