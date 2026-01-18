@@ -101,6 +101,7 @@ Uma música `(Music)` é um Objeto `(Object)` de DADOS que contem a seguinte est
 Music {
     id: 0,
     title: "Nome da Música",
+    style: "Estilo da Música",
     artist: "Nome do autor da música",
     image: "URL da Imagem da Capa",
     duration: "Duração da música",
@@ -112,6 +113,7 @@ Music {
 *
 * @property {Number} id - ID da Música
 * @property {String} title - Titulo da Música
+* @property {String} style - Estilo/Genero da música Exe: Funk, Rock, Eletronica
 * @property {String} artist - Nome do artista
 * @property {String} image - URL ou Local da imagem da Capa
 * @property {Number} duration - Duração da Música
