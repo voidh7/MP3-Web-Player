@@ -19,7 +19,9 @@ para os Devs desenvolverem.
 O Código do projeto deve seguir um padrão para que tudo esteja em ordem, e de facil entendimento dos outros desenvolvedores!
 Seguir esses padrões é fundamental para o projeto e a equipe, garantindo que tudo funcione! :sunglasses:
 
-> Padrão de nomes de funções
+> ## Padrão de nomes de funções
+
+> ### JavaScript
 
 Para Variaveis e Funções use o padrão `camelCase` (começa minúsculo, palavras seguintes maiúsculas).
 
@@ -50,6 +52,18 @@ export function filtrarMusicas(lista, termo) {
 Ele descreve tudo, para ninguem se perder!<br>
 Descreve o tipo do argumento e o nome!<br>
 Descreve o tipo de retorno e ou oque contem!
+
+> ### CSS
+
+Em CSS classes devem ser auto explicativas, exemplo:
+
+`button-blue` ou `btn-blue`<br>
+Você consegue entender que se trata de um botão azul estilizado!
+
+e IDs que o JavaScript ira usar devem seguir o mesmo padrão, porem com o `js` na frente, exemplo:<br>
+`js-button-blue` ou `js-btn-blue`<br>
+
+assim vc já irá saber "Há, esse ID a gente pega com `getElementById` do JavaScript"
 
 ### Contrato de Dados e Objetos
 <a name="data-contract"></a>
