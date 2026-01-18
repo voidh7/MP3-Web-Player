@@ -12,9 +12,18 @@
         "id" : 1,
         "title" : "Do Job ( Grelo Da Seresta & Mc Tuto )",
         "style" : "Funk",
-        "artist" : "Grelo Da Seresta & Mc Tuto",
+        "artist" : "Mc Tuto",
         "image" : "null",
         "duration" : "3:05",
         "url" : "https://palcocdn.akamaized.net/0/0/a/7/MCTuto2t-do-job-grelo-da-seresta-mc-tuto-b501fb81.mp3"
+    },
+    {
+        "id" : 2,
+        "title" : "Mc Tuto 2025 ( Dj Oreia & 2t )",
+        "style" : "Funk",
+        "artist" : "Mc Tuto",
+        "image" : "null",
+        "duration" : "2:53",
+        "url" : "https://palcocdn.akamaized.net/8/3/7/0/MCTuto2t-mc-tuto-2025-dj-oreia-2t-b3c591c5.mp3"
     }
 ]
