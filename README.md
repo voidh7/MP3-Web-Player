@@ -114,6 +114,6 @@ assim vc já irá saber "Há, esse ID a gente pega com `getElementById` do JavaS
 <a name="progress"></a>
 
 - [ ] Criar estrutura basica do HTML! - `(A Fazer)`
-- [ ] Criar estrutura de pastas do projeto! - `(A Fazer)`
+- [X] Criar estrutura de pastas do projeto!
 - [ ] Criar arquivos JavaScript (Vazios) e importar no HTML! - `(A Fazer)`
 - [ ] Criar arquivos CSS (Vazios) e importar no HTML! - `(A Fazer)`
