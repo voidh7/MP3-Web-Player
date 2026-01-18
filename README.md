@@ -30,15 +30,11 @@ JavaScript
 
 > [!CAUTION]
 > ORGANIZAÇÃO DO DESENVOLVIMENTO
-> - Cada pasta possui um resposavel principal!
-> - Um Desenvolvedor não deve editar arquivos fora de sua pastas sem avisar!
 > - Funções devem respeitar o contrato de implementação definido!
 > - main.js é apenas para conectar os modulos
 
 O Código do projeto deve seguir um padrão para que tudo esteja em ordem, e de facil entendimento dos outros desenvolvedores!
 Seguir esses padrões é fundamental para o projeto e a equipe, garantindo que tudo funcione! :sunglasses:
-
-> ## Padrão de nomes de funções
 
 > ## JavaScript
 
