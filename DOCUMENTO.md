@@ -13,6 +13,8 @@ para os Devs desenvolverem.
 - [Dicionário de IDs e Classes HTML e CSS](#dictionary-css-html)
 - [Dicionário de Pastas](#dictionary-folders)
 - [Dicionário de Arquivos e Referencia de Código](#dictionary-files)
+- [Progresso e Tarefas](#progress)
+  
 
 ### Padrão de Código
 <a name="code-structure"></a>
@@ -32,6 +34,10 @@ Para variaveis constantes escreva tudo maiusculo (Para variaveis que não vão o
 
 Errado: `maxUsers`, `app_key`<br>
 Certo: `MAX_USERS`, `SERVER_PORT`
+
+Para funções `Globais` e Funções construtoras use o padrão `PascalCase` exemplo:<br>
+`GameLoop()`, `AudioStream()`
+
 
 > [!IMPORTANT]
 > Nenhuma função deve ser entregue sem o comentário de cabeçalho!!!
@@ -68,17 +74,38 @@ assim vc já irá saber "Há, esse ID a gente pega com `getElementById` do JavaS
 ### Contrato de Dados e Objetos
 <a name="data-contract"></a>
 
+    Nada ainda!
+
 ### Contrato de Funções
 <a name="function-contract"></a>
+
+    Nada ainda!
 
 ### Dicionário de IDs e Classes HTML e CSS
 <a name="dictionary-css-html"></a>
 
-Nada ainda!
+    Nada ainda!
 
 ### Dicionário de Pastas
 <a name="dictionary-folders"></a>
 
+    Nada ainda!
 
 ### Dicionário de Arquivos e Referencias de Código
 <a name="dictionary-files"></a>
+
+> Globais
+
+| Nome | Descrição | Arquivo
+| ---- | --------- | -------
+| Nada Ainda | NDA | NDA
+
+> ### Referencia Completa
+
+### Progresso e Tarefas a fazer :label:
+<a name="progress"></a>
+
+- [ ] Criar estrutura basica do HTML! - `(A Fazer)`
+- [ ] Criar estrutura de pastas do projeto! - `(A Fazer)`
+- [ ] Criar arquivos JavaScript (Vazios) e importar no HTML! - `(A Fazer)`
+- [ ] Criar arquivos CSS (Vazios) e importar no HTML! - `(A Fazer)`
