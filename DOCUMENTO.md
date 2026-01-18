@@ -10,9 +10,9 @@ para os Devs desenvolverem.
 - [Padrão de Código e Regras!](#code-structure)
 - [Contrato de Dados e Objetos](#data-contract)
 - [Contrato de Funçoes](#function-contract)
-- [Dicionário de IDs e Classes HTML e CSS](#dictionary-css-html)
-- [Dicionário de Pastas](#dictionary-folders)
-- [Dicionário de Arquivos e Referencia de Código](#dictionary-files)
+- [Referencia de IDs e Classes HTML e CSS](#dictionary-css-html)
+- [Referencia de Pastas](#dictionary-folders)
+- [Referencia de Arquivos e Referencia de Código](#dictionary-files)
 - [Progresso e Tarefas](#progress)
   
 
@@ -89,17 +89,17 @@ assim vc já irá saber "Há, esse ID a gente pega com `getElementById` do JavaS
 
     Nada ainda!
 
-### Dicionário de IDs e Classes HTML e CSS
+### Referencia de IDs e Classes HTML e CSS
 <a name="dictionary-css-html"></a>
 
     Nada ainda!
 
-### Dicionário de Pastas
+### Referencia de Pastas
 <a name="dictionary-folders"></a>
 
     Nada ainda!
 
-### Dicionário de Arquivos e Referencias de Código
+### Referencia de Arquivos e Referencias de Código
 <a name="dictionary-files"></a>
 
 > Globais
