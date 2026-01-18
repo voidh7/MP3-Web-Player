@@ -73,11 +73,8 @@ assim vc já irá saber "Há, esse ID a gente pega com `getElementById` do JavaS
 
 ### Dicionário de IDs e Classes HTML e CSS
 <a name="dictionary-css-html"></a>
-```.button-blue```
->Deixa um botão azul
 
-```.button-hover```
->Muda o visual do botão ao passar o mouse
+Nada ainda!
 
 ### Dicionário de Pastas
 <a name="dictionary-folders"></a>
