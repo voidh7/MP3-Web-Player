@@ -8,15 +8,15 @@ para os Devs desenvolverem.
 
 ## Indices
 - [Padrão de Código e Regras!](#code-structure)
-- [Contrato de Dados e Objetos](#data-contract)
-- [Contrato de Funçoes](#function-contract)
+- [Contrato de Dados/Objetos/JSON](#data-contract)
+- [Contrato de Funçoes e Objetos de Serviço](#function-contract)
 - [Referencia de IDs e Classes HTML e CSS](#dictionary-css-html)
 - [Referencia de Pastas](#dictionary-folders)
 - [Referencia de Arquivos e Referencia de Código](#dictionary-files)
 - [Progresso e Tarefas](#progress)
   
 
-### Padrão de Código e Regras!
+## Padrão de Código e Regras!
 <a name="code-structure"></a>
 
 > [!CAUTION]
@@ -31,7 +31,7 @@ Seguir esses padrões é fundamental para o projeto e a equipe, garantindo que t
 
 > ## Padrão de nomes de funções
 
-> ### JavaScript
+> ## JavaScript
 
 Para Variaveis e Funções use o padrão `camelCase` (começa minúsculo, palavras seguintes maiúsculas).
 
@@ -67,7 +67,7 @@ Ele descreve tudo, para ninguem se perder!<br>
 Descreve o tipo do argumento e o nome!<br>
 Descreve o tipo de retorno e ou oque contem!
 
-> ### CSS
+> ## CSS
 
 Em CSS classes devem ser auto explicativas, exemplo:
 
@@ -79,14 +79,21 @@ e IDs que o JavaScript ira usar devem seguir o mesmo padrão, porem com o `js` n
 
 assim vc já irá saber "Há, esse ID a gente pega com `getElementById` do JavaScript"
 
-### Contrato de Dados e Objetos
+## Contrato de Dados/Objeto/JSON
 <a name="data-contract"></a>
 
 > Objetos de dados não devem ter lógica/metodos, apenas objetos de Serviço podem ter lógica/metodos!<br>
 
-Uma música é um Objeto `(Object)` que contem a seguinte estrutura:<b>
+## Indice
+- [Music](#obj-data-music)
+
+## `Music `
+
+<a name="obj-data-music"></a>
+Uma música `(Music)` é um Objeto `(Object)` de DADOS que contem a seguinte estrutura:<b>
+
 ```js
-{
+Music {
     id: 0,
     title: "Nome da Música",
     artist: "Nome do autor da música",
@@ -103,22 +110,22 @@ Uma música é um Objeto `(Object)` que contem a seguinte estrutura:<b>
 **/
 ```
 
-### Contrato de Funções
+## Contrato de Funções e Objetos de Serviço
 <a name="function-contract"></a>
 
     Nada ainda!
 
-### Referencia de IDs e Classes HTML e CSS
+## Referencia de IDs e Classes HTML e CSS
 <a name="dictionary-css-html"></a>
 
     Nada ainda!
 
-### Referencia de Pastas
+## Referencia de Pastas
 <a name="dictionary-folders"></a>
 
     Nada ainda!
 
-### Referencia de Arquivos e Referencias de Código
+## Referencia de Arquivos e Referencias de Código
 <a name="dictionary-files"></a>
 
 > Globais
@@ -127,9 +134,9 @@ Uma música é um Objeto `(Object)` que contem a seguinte estrutura:<b>
 | ---- | --------- | -------
 | Nada Ainda | NDA | NDA
 
-> ### Referencia Completa
+> ## Referencia Completa
 
-### Progresso e Tarefas a fazer :label:
+## Progresso e Tarefas a fazer :label:
 <a name="progress"></a>
 
 - [ ] Criar estrutura basica do HTML! - `(A Fazer)`
