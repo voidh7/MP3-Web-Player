@@ -1,2 +1,2 @@
 > [!WARNING]
-> Arquivo usado para anotações do Desenvolvedor responsavel pela pasta Utils
+> Arquivo usado para anotações do Desenvolvedor responsavel pela pasta ./utils/
