@@ -82,7 +82,26 @@ assim vc já irá saber "Há, esse ID a gente pega com `getElementById` do JavaS
 ### Contrato de Dados e Objetos
 <a name="data-contract"></a>
 
-    Nada ainda!
+> Objetos de dados não devem ter lógica/metodos, apenas objetos de Serviço podem ter lógica/metodos!<br>
+
+Uma música é um Objeto `(Object)` que contem a seguinte estrutura:<b>
+```js
+{
+    id: 0,
+    title: "Nome da Música",
+    artist: "Nome do autor da música",
+    duration: "Duração da música",
+    src: "Diretório/URL da musica"
+}
+
+/**
+* @param {Number} id - ID da Música
+* @param {String} title - Titulo da Música
+* @param {String} artist - Nome do artista
+* @param {Number} duration - Duração da Música
+* @param {String} src - URL ou Local da Núsica
+**/
+```
 
 ### Contrato de Funções
 <a name="function-contract"></a>
