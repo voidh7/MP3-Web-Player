@@ -7,6 +7,7 @@ Aqui será o documento principal do projeto, onde ira descrever cada função e 
 para os Devs desenvolverem.
 
 ## Indices
+- [Linguagens e Tecnologias](#project-info)
 - [Padrão de Código e Regras!](#code-structure)
 - [Contrato de Dados/Objetos/JSON](#data-contract)
 - [Contrato de Funçoes e Objetos de Serviço](#function-contract)
@@ -14,7 +15,15 @@ para os Devs desenvolverem.
 - [Referencia de Pastas](#dictionary-folders)
 - [Referencia de Arquivos e Referencia de Código](#dictionary-files)
 - [Progresso e Tarefas](#progress)
-  
+
+## Linguagens e Tecnologias
+<a name="project-info"></a>
+```
+HTML
+CSS
+NodeJS
+JavaScript
+````
 
 ## Padrão de Código e Regras!
 <a name="code-structure"></a>
@@ -102,11 +111,13 @@ Music {
 }
 
 /**
-* @param {Number} id - ID da Música
-* @param {String} title - Titulo da Música
-* @param {String} artist - Nome do artista
-* @param {Number} duration - Duração da Música
-* @param {String} src - URL ou Local da Núsica
+* @typedef {Object} Music - Nome do Objeto
+*
+* @property {Number} id - ID da Música
+* @property {String} title - Titulo da Música
+* @property {String} artist - Nome do artista
+* @property {Number} duration - Duração da Música
+* @property {String} src - URL ou Local da Núsica
 **/
 ```
 
