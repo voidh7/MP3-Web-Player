@@ -106,6 +106,7 @@ Music {
     id: 0,
     title: "Nome da Música",
     artist: "Nome do autor da música",
+    image: "URL da Imagem da Capa",
     duration: "Duração da música",
     src: "Diretório/URL da musica"
 }
@@ -116,6 +117,7 @@ Music {
 * @property {Number} id - ID da Música
 * @property {String} title - Titulo da Música
 * @property {String} artist - Nome do artista
+* @property {String} image - URL ou Local da imagem da Capa
 * @property {Number} duration - Duração da Música
 * @property {String} src - URL ou Local da Núsica
 **/
